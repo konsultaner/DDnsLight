@@ -1,5 +1,5 @@
 # DDnsLight #
-This is a little class that allows you to use your webserver to be a dynamic dns server.
+This is a little class that allows you to use a webserver to be a dynamic dns server.
 
 ## Installation ##
 Create a index.php in a folder you want to use for the update process like '/dns'. Copy the class to the folder and edit the index.php like
